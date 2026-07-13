@@ -1,1 +1,5 @@
-
+inverse_logit()
+logit_transform()
+normalize_probabilities()
+safe_exponential()
+approximately_equal()
