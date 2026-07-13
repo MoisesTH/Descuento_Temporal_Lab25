@@ -1,1 +1,5 @@
-
+plot_discount_curves()
+plot_binary_comparison()
+plot_ctb_budget()
+plot_ctb_probabilities()
+plot_utility_function()
