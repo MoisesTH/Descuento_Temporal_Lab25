@@ -1,1 +1,5 @@
-
+discount_exponential()
+discount_hyperbolic()
+discount_quasi_hyperbolic()
+discount_proposed_model()
+subjective_value()
