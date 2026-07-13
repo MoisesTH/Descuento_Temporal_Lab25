@@ -1,1 +1,2 @@
-
+validate_shiny_discount_inputs()
+validate_shiny_ctb_inputs()
