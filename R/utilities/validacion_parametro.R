@@ -1,1 +1,8 @@
-
+validate_delta()
+validate_beta()
+validate_k()
+validate_alpha()
+validate_sigma()
+validate_time()
+validate_amount()
+validate_gross_rate()
